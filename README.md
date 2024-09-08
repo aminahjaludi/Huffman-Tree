@@ -1,6 +1,8 @@
+# Huffman Tree
+
 ## Overview
 
-Huffman Tree Encoding is a lossless data compression algorithm used to reduce the size of data files by assigning shorter codes to more frequent symbols and longer codes to less frequent symbols. This repository provides an implementation of Huffman Encoding and Decoding in C++, demonstrating the creation of a Huffman Tree and the encoding/decoding processes.<br>
+Huffman Tree Encoding is a lossless data compression algorithm based on a concept introduced by David A. Huffman in 1952. It is used to reduce the size of data files by assigning shorter codes to more frequent symbols and longer codes to less frequent symbols . This repository provides an implementation of Huffman Encoding and Decoding in C++, demonstrating the creation of a Huffman Tree and the encoding/decoding processes.<br>
 <br>
 <br>
 ## How It Works
