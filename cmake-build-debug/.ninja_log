@@ -1,0 +1,4 @@
+# ninja log v6
+13	701	7474801653277816	CMakeFiles/huffman.dir/main.cpp.obj	ffc171941fa61cdb
+33	1016	7474801653488028	CMakeFiles/huffman.dir/huffmantree.cpp.obj	6314f4d065286b36
+1016	1445	7474801663316775	huffman.exe	11346d8454d403ca
